@@ -6,4 +6,5 @@
    * Strategy
    * Singleton
    * Decorator
+   * Composite
 
