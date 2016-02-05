@@ -7,4 +7,5 @@
    * Singleton
    * Decorator
    * Composite
+   * MVC
 
