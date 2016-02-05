@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* Design Patterns
+* [Design Patterns](design_patterns.md)
 
