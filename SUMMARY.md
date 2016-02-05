@@ -5,4 +5,5 @@
    * Facade
    * Strategy
    * Singleton
+   * Decorator
 
