@@ -7,5 +7,5 @@
    * Singleton
    * Decorator
    * Composite
-   * MVC
+   * [MVC](mvc.md)
 
